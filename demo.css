@@ -4,6 +4,7 @@
     font-size: 26px;
     background-color: #aaf;
     color: #faf;
-    line-height: 300px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
